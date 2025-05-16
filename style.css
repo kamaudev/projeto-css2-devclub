@@ -1,6 +1,15 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: "Oswald", sans-serif;
+}
+
+header {
+    width: 491px;
+    height: 901px;
+    opacity: 0.16;
+    background: #5D5D7D;
+    position: fixed;
+    right: 0;
 }
