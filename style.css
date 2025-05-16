@@ -66,9 +66,21 @@ button {
     cursor: pointer;
 
 }
-button:hover{
+
+button:hover {
     opacity: .8;
 }
-button:active{
+
+button:active {
     opacity: .5;
+}
+
+.link-header {
+    color: #5D5D7D;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 41px;
+    margin-right: 41px;
+    cursor: pointer;
+
 }
