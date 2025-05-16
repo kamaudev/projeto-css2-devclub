@@ -4,19 +4,13 @@
     box-sizing: border-box;
     font-family: "Oswald", sans-serif;
 }
-nav{
-    margin: 23px 58px 151px 0px;
-    position: relative;
-    top: 23px;
-    left:  1006px;
-}
-
 
 .link-header {
     color: #5D5D7D;
     font-size: 28px;
     font-weight: 400;
    line-height: 41px;
+   margin-right:  43px;
    
 }
 .link-header:nth-child(2){
