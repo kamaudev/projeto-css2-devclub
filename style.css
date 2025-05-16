@@ -28,9 +28,15 @@ body {
 
 .container-image {
     position: relative;
-    top: 20%;
+    top: 17%;
     right: 130px;
 }
+.container-image img {
+  width: auto !important;
+  height: 70vh !important;
+  display: block;
+}
+
 
 h1 {
     color: #5D5D7D;
