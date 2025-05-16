@@ -4,7 +4,12 @@
     box-sizing: border-box;
     font-family: "Oswald", sans-serif;
 }
-
+nav{
+    margin: 23px 58px 151px 0px;
+    position: relative;
+    top: 23px;
+    left:  1006px;
+}
 
 
 .link-header {
