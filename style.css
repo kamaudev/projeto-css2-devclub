@@ -26,3 +26,11 @@ h1 {
     line-height: 80px;
 
 }
+
+p {
+    width: 540px;
+    color: #5D5D7D;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 48px;
+}
