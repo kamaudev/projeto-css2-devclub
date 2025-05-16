@@ -28,8 +28,9 @@ body {
 
 .container-image {
     position: relative;
-    top: 25%;
+    top: 20%;
     right: 130px;
+    height: 60vh;
 }
 
 h1 {
