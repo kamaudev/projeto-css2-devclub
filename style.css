@@ -82,6 +82,7 @@ button:active {
     line-height: 41px;
     margin-right: 41px;
     cursor: pointer;
+    text-decoration: none;
 
 }
 .link-header:nth-child(2){
