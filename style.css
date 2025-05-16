@@ -84,3 +84,6 @@ button:active {
     cursor: pointer;
 
 }
+.link-header:nth-child(2){
+    opacity: .4;
+}
