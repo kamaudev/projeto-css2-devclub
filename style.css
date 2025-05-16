@@ -4,6 +4,9 @@
     box-sizing: border-box;
     font-family: "Oswald", sans-serif;
 }
+header{
+    margin: 23px 58px 151px 1006px
+}
 
 .link-header {
     color: #5D5D7D;
@@ -18,6 +21,7 @@
 .link-header:nth-child(2) {
     opacity: 0.40;
 }
+
 
 h1 {
     width: 368px;
