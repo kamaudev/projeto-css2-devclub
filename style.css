@@ -21,5 +21,5 @@ body {
     background-color: rgba(93, 93, 125, 0.16);
     height: 100vh;
     width: 40%;
-
+    position: absolute;
 }
