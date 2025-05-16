@@ -13,3 +13,8 @@ header {
     position: fixed;
     right: 0;
 }
+nav{
+    margin: 23px 58px 151px 0px;
+    position: sticky;
+    
+}
