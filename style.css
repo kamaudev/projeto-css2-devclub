@@ -18,3 +18,11 @@
 .link-header:nth-child(2) {
     opacity: 0.40;
 }
+
+h1 {
+    color: #5D5D7D;
+    font-size: 70px;
+    font-weight: 400;
+    line-height: 80px;
+
+}
