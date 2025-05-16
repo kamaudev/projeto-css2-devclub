@@ -5,7 +5,8 @@
     font-family: "Oswald", sans-serif;
 }
 header{
-    margin: 23px 58px 151px 1006px
+    margin: 23px 58px 151px 1006px;
+    position: relative;
 }
 
 .link-header {
