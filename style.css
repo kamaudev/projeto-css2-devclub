@@ -88,3 +88,6 @@ button:active {
 .link-header:nth-child(2){
     opacity: .4;
 }
+header{
+    margin: 24px 0 0 57px;
+}
