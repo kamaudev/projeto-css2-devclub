@@ -123,9 +123,10 @@ header {
     }
 
     .container-image img {
-        max-width: 100% !important;
+        max-width: 75% !important;
         height: auto !important;
         position: static;
+        margin-left: 12.5%;
     }
 
     header {
@@ -133,17 +134,17 @@ header {
     }
 
     h1 {
-        font-size: 36px;
-        line-height: 52px;
-        width: auto;
-        margin: 58px 50px 0 50px;
+        font-size: 32px;
+        line-height: 40px;
+        width: 80%;
+        margin: 35px 50px 0 50px;
         text-align: center;
     }
 
     p {
-        font-size: 14px;
+        font-size: 20px;
         line-height: 24px;
-        margin: 15px 40px;
+        margin: 10px 40px;
         width: auto;
         text-align: center;
     }
@@ -151,5 +152,6 @@ header {
     button {
         margin: 0 auto;
         display: block;
+        width: 60%;
     }
 }
